@@ -1,1 +1,1 @@
-<h1>#Foodi- A Restaurant Management App</h1>
+<h1>Foodi- A Restaurant Management App</h1>
